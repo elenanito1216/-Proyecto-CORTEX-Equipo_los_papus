@@ -7,5 +7,4 @@
  - Santiago Gomez Garcia
 
 ## **1.PERFIL DEL AGENTE**
-
-![proyecto](https://github.com/user-attachments/assets/268d08a4-016a-40b1-9f0c-c15583930af5)
+![proyecto (1)](https://github.com/user-attachments/assets/df86c4ea-f64d-4bd5-a33b-a0a5572129f6)
